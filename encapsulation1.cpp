@@ -10,7 +10,7 @@ class Student{
 
         };
         string getValue(){
-            return "Name: "+name+" wow";
+            return "Name  : "+name+" wow";
         }
 
 };

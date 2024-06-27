@@ -1,5 +1,7 @@
 #include<iostream>
 using namespace std;
+//function overloadin is a process of declearing multi function
+//with the same name but parameter or data type must have to different;
 void sum(int x,int y){
     int add=x+y;
     cout<<"Sum value is: "<<add<<endl;
